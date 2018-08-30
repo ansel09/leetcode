@@ -1,4 +1,4 @@
-public class Solution{
+public class P002_AddTwoNumbers{
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) { // problem 2.
         int flag = 0;
         ListNode retNode = new ListNode(0);

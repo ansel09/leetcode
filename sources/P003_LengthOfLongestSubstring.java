@@ -1,4 +1,4 @@
-public class Solution{
+public class P003_LengthOfLongestSubstring{
     public int lengthOfLongestSubstring(String s) {
         int maxLen = 0;
         HashMap<String, Integer> m = new HashMap();
